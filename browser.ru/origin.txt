@@ -1,0 +1,76 @@
+Uri: https://browser.ru/
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\index.htm
+Content Type: text/html
+
+Uri: https://browser.ru/favicon.ico
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://browser.ru/fonts/TTNorms-Regular.woff2
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\fonts\TTNorms-Regular.bin
+Content Type: application/octet-stream
+
+Uri: https://browser.ru/fonts/TTNorms-Bold.woff2
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\fonts\TTNorms-Bold.bin
+Content Type: application/octet-stream
+
+Uri: https://browser.ru/css/style.min.css
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\css\style.min.css
+Content Type: text/css
+
+Uri: https://browser.ru/img/atom-logo.svg
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\img\atom-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://browser.ru/img/vk-logo.svg
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\img\vk-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://browser.ru/img/atom-pc-vkontakte-music.png
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\img\atom-pc-vkontakte-music.png
+Content Type: image/png
+
+Uri: https://browser.ru/js/libs.min.js
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\js\libs.min.js
+Content Type: application/javascript
+
+Uri: https://browser.ru/js/main.min.js
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://browser.ru/img/atom-pc-vkontakte-music.webp
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\img\atom-pc-vkontakte-music.webp
+Content Type: image/webp
+
+Uri: https://browser.ru/img/atom-pc-vkontakte-music@2x.webp
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\img\atom-pc-vkontakte-music@2x.webp
+Content Type: image/webp
+
+Uri: https://browser.ru/img/atom-pc-vkontakte-music@3x.webp
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\img\atom-pc-vkontakte-music@3x.webp
+Content Type: image/webp
+
+Uri: https://browser.ru/img/atom-pc-vkontakte-music@2x.png
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\img\atom-pc-vkontakte-music@2x.png
+Content Type: image/png
+
+Uri: https://browser.ru/img/atom-pc-vkontakte-music@3x.png
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\img\atom-pc-vkontakte-music@3x.png
+Content Type: image/png
+
+Uri: https://browser.ru/fonts/TTNorms-Regular.woff
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\fonts\TTNorms-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://browser.ru/fonts/TTNorms-Bold.woff
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\fonts\TTNorms-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://browser.ru/img/checkmark-bold.svg
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\img\checkmark-bold.svg
+Content Type: image/svg+xml
+
+Uri: https://browser.ru/img/kaspersky-circle.png
+File Name: C:\Users\сергей\Documents\1123131\browser.ru\img\kaspersky-circle.png
+Content Type: image/png
+
